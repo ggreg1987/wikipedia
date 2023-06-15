@@ -1,8 +1,7 @@
-
 .div1 , .div2 , .div3 {
-    margin-right: auto;
     margin-left: auto;
-    margin-top: 9px;
+    margin-right: auto;
+    margin-top: 7px;
     width: 30px;
     background-color: #ccc;
     height: 4px;
@@ -12,9 +11,11 @@
 
 .menuicon:hover {
     cursor: pointer;    
-    
-    
+    .div1 , .div2 , .div3 {
+        background-color: black;
+    }
 }
+
 #logo {
     height: 85px;
     margin-left: -30px;
