@@ -10,10 +10,7 @@
 }
 
 .menuicon:hover {
-    cursor: pointer;    
-    .div1 , .div2 , .div3 {
-        background-color: black;
-    }
+    cursor: pointer;
 }
 
 #logo {
