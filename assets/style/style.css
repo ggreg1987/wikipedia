@@ -32,6 +32,15 @@ aside .figure a:hover {
     
 }
 
+li a:hover {
+    text-decoration: none;
+}
+
+.menuleft {
+    font-size: 11px;
+}
+
+
 
 
 
