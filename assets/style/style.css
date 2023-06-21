@@ -44,3 +44,16 @@ li a:hover , ul a:hover{
     color: white;
     text-shadow: 2px 2px 4px #000000;
 }
+
+.theory {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    background-color: aqua;
+}
+
+.bangcard {
+    height: 150px;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
