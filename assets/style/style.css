@@ -65,5 +65,9 @@ li a:hover , ul a:hover{
 .ttbtimage {
     margin-left: auto;
     margin-right: auto;
-    
+}
+
+.imgcharacter {
+    width: 150px;
+    height: 200px;
 }
