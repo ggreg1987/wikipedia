@@ -71,3 +71,12 @@ li a:hover , ul a:hover{
     width: 150px;
     height: 200px;
 }
+
+
+.ulbang {
+    list-style-type: disc;
+}
+
+.nostyle {
+    list-style-type: none;
+}
