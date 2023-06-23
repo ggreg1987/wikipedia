@@ -1,4 +1,4 @@
-<h1>A Wikipedia project by<a href="https://www.dio.me">DIO</a></h1>
+<h1>A Wikipedia project by <a href="https://www.dio.me">DIO</a></h1>
 <h2>Technologies:</h2>
 <ul>
   <li>HTML</li>
